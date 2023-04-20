@@ -1,0 +1,16 @@
+
+*.1
+*.v2
+*.lock
+*.vsidx
+SonarCloudPrueba/.vs/SonarCloudPrueba/v17/.suo
+*.cache
+*.editorconfig
+*.targets
+*.props
+*.txt
+*.js
+SonarCloudPrueba/SonarCloudPrueba/wwwroot/lib/bootstrap/LICENSE
+*.md
+*.map
+*.ico
